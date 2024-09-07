@@ -28,7 +28,7 @@ This project is an IoT-based accident alert system designed to track the locatio
 
 ## Circuit Diagram:
 
-Insert the circuit diagram here or provide a link to the image.
+![Circuit diagram](https://github.com/user-attachments/assets/4897d672-f9e8-4157-b5a6-3b4a57926205)
 
 ## Software & Libraries:
 
