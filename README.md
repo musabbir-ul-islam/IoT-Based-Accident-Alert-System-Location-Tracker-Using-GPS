@@ -40,10 +40,9 @@ This project is an IoT-based accident alert system designed to track the locatio
 
 ## Installation & Setup:
 
-1. Clone the repository:
-   ```bash
-  IoT Based Accident Alert System.ino
-   ```
+1. Code:
+[  IoT Based Accident Alert System.ino](https://github.com/musabbir-ul-islam/IoT-Based-Accident-Alert-System-Location-Tracker-Using-GPS/blob/main/IoT%20Based%20Accident%20Alert%20System.ino)
+  
 2. Open the project in Arduino IDE or any other platform.
 3. Install required libraries using Arduino Library Manager.
 4. Upload the code to your microcontroller.
