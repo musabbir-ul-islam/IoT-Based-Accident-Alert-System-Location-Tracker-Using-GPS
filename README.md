@@ -30,6 +30,9 @@ This project is an IoT-based accident alert system designed to track the locatio
 
 ![Circuit diagram](https://github.com/user-attachments/assets/4897d672-f9e8-4157-b5a6-3b4a57926205)
 
+## PCB Design & Fabrication
+![PCB Design](https://github.com/user-attachments/assets/a29d8698-5ec3-4479-8e2e-51e027b11a1a)
+
 ## Software & Libraries:
 
 - **Arduino IDE** or any compatible platform for microcontroller programming.
