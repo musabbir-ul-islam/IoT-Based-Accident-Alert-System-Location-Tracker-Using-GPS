@@ -42,7 +42,7 @@ This project is an IoT-based accident alert system designed to track the locatio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/IoT-Based-Accident-Alert-System-Location-Tracker-Using-GPS.git
+  IoT Based Accident Alert System.ino
    ```
 2. Open the project in Arduino IDE or any other platform.
 3. Install required libraries using Arduino Library Manager.
